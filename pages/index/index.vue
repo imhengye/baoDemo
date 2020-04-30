@@ -15,6 +15,7 @@
 				title: 'Hello',
 				New: 'New',
 				a: 'a',
+				this: 'this',
 				world: 'world'
 			}
 		},
