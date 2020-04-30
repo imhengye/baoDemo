@@ -13,6 +13,7 @@
 		data() {
 			return {
 				title: 'Hello',
+				title: 'New',
 				world: 'world'
 			}
 		},
